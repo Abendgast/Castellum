@@ -27,3 +27,8 @@ thesis/
 *.bin
 *.tmp
 vault.bin
+
+
+# Added by cargo
+
+/target
