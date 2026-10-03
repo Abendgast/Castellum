@@ -17,6 +17,10 @@ Cargo.lock
 *.txt
 мр_*.txt
 специфікація.txt
+диплом*
+*.docx
+диплом/
+thesis/
 
 # Vault test containers & secrets
 *.vault
